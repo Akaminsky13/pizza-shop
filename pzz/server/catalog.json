@@ -1,0 +1,62 @@
+[
+    {
+        "id": "el1",
+        "name": "Ranch pizza",
+        "img": "img/catalog/ranch.jpg",
+        "price": 24.90
+    },
+    {
+        "id": "el2",
+        "name": "BBQ chicken",
+        "img": "img/catalog/barb.jpg",
+        "price": 24.90
+    },
+    {
+        "id": "el3",
+        "name": "Bavarian",
+        "img": "img/catalog/bavaria.jpg",
+        "price": 24.90
+    },
+    {
+        "id": "el4",
+        "name": "Hawaiian",
+        "img": "img/catalog/Havai.jpg",
+        "price": 24.90
+    },
+    {
+        "id": "el5",
+        "name": "Cheese chicken",
+        "img": "img/catalog/cheez.jpg",
+        "price": 24.90
+    },
+    {
+        "id": "el6",
+        "name": "Village",
+        "img": "img/catalog/village.jpg",
+        "price": 24.90
+    },
+    {
+        "id": "el7",
+        "name": "BBQ sausages",
+        "img": "img/catalog/barb2.jpg",
+        "price": 24.90
+    },
+    {
+        "id": "el8",
+        "name": "Italiano",
+        "img": "img/catalog/italian.jpg",
+        "price": 29.90
+    },
+    {
+        "id": "el9",
+        "name": "Meat",
+        "img": "img/catalog/meat.jpg",
+        "price": 29.90
+    },
+    {
+        "id": "el10",
+        "name": "Mushroom",
+        "img": "img/catalog/mash.jpg",
+        "price": 24.90
+    }
+]
